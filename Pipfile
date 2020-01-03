@@ -12,6 +12,10 @@ djangorestframework = "*"
 django-cors-headers = "*"
 django-debug-toolbar = "*"
 django-debug-panel = "*"
+graphene-django = "*"
+graphene = "*"
+typing = "*"
+django-graphql-jwt = "*"
 
 [requires]
 python_version = "3.5"
