@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # 'corsheaders',
     'login',
     'links',
+    'users',
     'graphene_django'
 ]
 
